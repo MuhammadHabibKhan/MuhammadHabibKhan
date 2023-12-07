@@ -1,6 +1,5 @@
 - Ola, I'm Muhammad Habib Khan. CS major from University of Karachi - Department of Computer Science (UBIT) 🎓
-- Machine Learning Enthusiast 🤖
-- 3rd Year Student | Current focus on ML and Databases 🐾
+- 3rd Year Student
 - muhammad2002khan@gmail.com 📧
 
 <!---
